@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x38f4e5eca904e01faa7a23e8956cf9af48c6b666",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x38f4e5eca904e01faa7a23e8956cf9af48c6b666",
+  "NETWORK": {
+    "NAME": "Goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Web3Chick",
+  "SYMBOL": "W3C",
+  "MAX_SUPPLY": 200,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 2,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "#",
+  "Telegram": "#",
+  "Discord": "#",
+  "Twitter": "#",
+  "SHOW_BACKGROUND": false
+}
