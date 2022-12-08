@@ -1,4 +1,4 @@
-# Minting-Dapp
+# Modified Hashlips Minting-Dapp
 
 By Fazel Pejmanfar & Web3Chick and compatible with ERC721A. I have only made some UI changes and added Web3 Modal.
 
@@ -6,9 +6,9 @@ This repo provides a nice and easy way for linking an existing NFT smart contrac
 
 The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).
 
-The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through).
+The more complex route allows you to add additional functionality if you are comfortable with coding in react.js.
 
-## Changes 🛠️
+## Changes by Fazel 🛠️
 
 <b> Fixed the BigNumber Issue</b> <br>
 <b> Added Social icons</b> <br>
