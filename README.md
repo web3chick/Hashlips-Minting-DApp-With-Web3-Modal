@@ -2,11 +2,8 @@
 
 By Fazel Pejmanfar & Web3Chick and compatible with ERC721A. I have only made some UI changes and added Web3 Modal.
 
-This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
+This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. 
 
-The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).
-
-The more complex route allows you to add additional functionality if you are comfortable with coding in react.js.
 
 ## Changes by Fazel 🛠️
 
